@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-My Name is Mauricio Gasparotto Teixeira and I`m SAP ABAP Developer.
-I like to workout, computer games, movies/series and learn
-I`m  currently learning SAPUI5, Fiori, a little about SAP HANA and Web Dev.
-Right now I`m just looking to learn and create small projects to learn even more to help other projects in the future.
+My Name is Mauricio Gasparotto Teixeira and I'm SAP ABAP Developer.
+I like to workout, computer games, movies/series and learn now things.
+I'm  currently learning SAPUI5, Fiori, a little about SAP HANA and Web Dev.
+Right now I'm just looking to learn and create small projects to learn even more to help other projects in the future.
 
 
 
